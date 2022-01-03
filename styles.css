@@ -507,6 +507,10 @@ footer {
         display: none;
     }
 
+    .project__wrapper {
+        border-radius: 0;
+    }
+
     .project__description--para {
         display: none;
     }
